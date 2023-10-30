@@ -1,4 +1,5 @@
 # Prodigy-hacking-
+Hello if you are reading this it has been a great 3 months of this prodigy-hacking github page!
 How to use:
 1. Copy a script into search bar.
 2. copy a script into console. by pressing ctrl j
